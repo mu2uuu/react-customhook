@@ -1,2 +1,2 @@
-# react-customhook
+# react-typescript
 Created with CodeSandbox
